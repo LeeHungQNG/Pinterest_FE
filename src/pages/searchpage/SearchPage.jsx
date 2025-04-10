@@ -1,6 +1,6 @@
 import Gallery from '../../components/Gallery/Gallery';
-import './HomePage.css';
-const HomePage = () => {
+import './SearchPage.css';
+const SearchPage = () => {
   return <Gallery />;
 };
-export default HomePage;
+export default SearchPage;
