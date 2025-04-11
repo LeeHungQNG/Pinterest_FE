@@ -1,0 +1,22 @@
+.post-inter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.inter-icons {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+}
+
+.post-inter button {
+  background-color: #e50829;
+  color: white;
+  border: none;
+  border-radius: 24px;
+  padding: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
